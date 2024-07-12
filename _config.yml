@@ -86,7 +86,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: ko120 # your LinkedIn user name
+linkedin_username: kyungminko # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -226,7 +226,13 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include:
+  - _pages/404.md
+  - _pages/about.md
+  - _pages/cv.md
+  - _pages/news.md
+  - _pages/publications.md
+  - _pages/publications.md
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -247,12 +253,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - blog.md
-  - dropdown.md
-  - projects.md
-  - repositories.md
-  - teaching.md
-  - profiles.md
+
 keep_files:
   - CNAME
   - .nojekyll
