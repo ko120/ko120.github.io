@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact: ko120 [at] purdue [dot] edu
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
