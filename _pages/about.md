@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Interests: Truthyworthy ML, LLM, Reinforcemennt Learning.
+subtitle: "**Research Interests: Truthyworthy ML, LLM, Reinforcemennt Learning**"
 
 profile:
   align: right
