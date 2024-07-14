@@ -180,7 +180,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 newsletter:
-  enabled: false
+  enabled: true
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
@@ -319,7 +319,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Ko]
-  first_name: [Brian]
+  first_name: [Kyung Min]
 
   style: apa
   locale: en
