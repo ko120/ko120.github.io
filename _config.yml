@@ -230,9 +230,8 @@ include:
   - _pages/404.md
   - _pages/about.md
   - _pages/cv.md
+  - _pages/publications.md
   - _pages/news.md
-  - _pages/publications.md
-  - _pages/publications.md
 exclude:
   - bin/
   - CONTRIBUTING.md
